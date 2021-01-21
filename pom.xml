@@ -26,6 +26,7 @@
 
     <modules>
         <module>example-spring-boot-starter</module>
+        <module>app</module>
     </modules>
 
     <dependencyManagement>
