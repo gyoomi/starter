@@ -1,0 +1,8 @@
+example:
+  name: Leon
+  age: 18
+  hobby:
+    - haha
+    - hehe
+    - xixi
+    - huhu
